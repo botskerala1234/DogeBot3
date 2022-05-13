@@ -1,4 +1,4 @@
-<p align="center">
+Mc<p align="center">
   <img src="https://media.tenor.com/images/55708181ec0e8ffa9b63f71a6b2ac2bd/tenor.gif" alt="animated" />
 </p>
 
@@ -46,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botskerala1234/DogeBot3/)
 
 # Install Manually 👇
 ## `Requirements`
